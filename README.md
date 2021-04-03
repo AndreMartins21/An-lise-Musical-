@@ -13,7 +13,7 @@
 - No arquivo ["ANALISE_MUSICAL.ipynb"](https://bit.ly/31JDUs0) está contido todos os códigos;
 
 ### <> Resultados de toda análise:
-#### P.S: Coloquei todos os gráficos em uma mesma coloração, para deixar mais padronizado!
+#### P.S: Coloquei todos os gráficos em uma mesma coloração para deixar mais padronizado!
 
 * **1°: Países mais referenciados no Dataset:**
 <a>
